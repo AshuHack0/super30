@@ -1,0 +1,86 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(backgroundm.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center;
+    background-size: cover;
+
+}
+form button
+{
+    left: px !important;
+}
+ .ho
+ {
+    color: black;
+ }
+.coll
+{  
+       -webkit-box-shadow: 6px -5px 29px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px -5px 29px 0px rgba(0,0,0,0.75);
+box-shadow: 6px -5px 29px 0px rgba(0,0,0,0.75);
+ color: black ;
+   background-image: url(le.jpg);
+   background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position:center;
+    background-size: cover;
+   /* background: transparent; */
+border-radius: 5rem;
+font-weight: 600;
+}
+.size
+{
+    min-height: 300px !important; 
+    border: 2px solid black;
+}
+ .card
+ {
+       background-image: url(background.jpg);
+    border-radius: 5rem;  
+}
+ .he
+ {
+    border-radius: 63px 63px 63px 63px;
+-moz-border-radius: 63px 63px 63px 63px;
+-webkit-border-radius: 63px 63px 63px 63px;
+-webkit-box-shadow: 6px -5px 29px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px -5px 29px 0px rgba(0,0,0,0.75);
+box-shadow: 6px -5px 29px 0px rgba(0,0,0,0.75);
+
+border: 0px solid #000000;
+/* background-color: darkgreen; */
+ background-image: url(backfor.jpg);
+ }
+.login
+ {
+   background:transparent;
+   left: 10px;
+ }
+ .round img {
+    border-radius: 50px;
+ }
+
+ .cc
+ {
+    height: 30rem !important;
+    width: 80rem;
+    background-size:contain; 
+    margin-left: 7rem;
+ }
+ .cc img 
+ {
+      height: 100%;
+   
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+ }
+  
